@@ -176,8 +176,6 @@ Rounds numbers.
 SELECT CEIL(91.68);   -- 92
 SELECT FLOOR(91.68);  -- 91
 
-	•	CEIL → next highest value
-	•	FLOOR → next lowest value
 
 
 Casting (Type Conversion)
@@ -198,6 +196,6 @@ Actual order:
 	5.	SELECT
 	6.	ORDER BY
 
-That’s why aggregate functions don’t work in WHERE.
+
 
  
